@@ -1,7 +1,8 @@
 # analise-e-previsao-series-temporais
-
-**Aula 2: Explorando os dados numéricos**/n 
-**Aula 3: Explorando os dados categóricos**/n
-**Aula 4: Analisando os dados ao longo do tempo**/n
-**Aula 5: Construindo o modelo preditivo**/n
-**Aula 6: Melhorando as previsões**
+##Etapas:<br>
+**Preparando e processando os dados**<br>
+**Explorando os dados numéricos**<br>
+**Explorando os dados categóricos**<br>
+**Analisando os dados ao longo do tempo**<br>
+**Construindo o modelo preditivo**<br>
+**Melhorando as previsões**
