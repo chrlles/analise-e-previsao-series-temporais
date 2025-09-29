@@ -1,5 +1,5 @@
 # analise-e-previsao-series-temporais
-##Etapas:<br>
+##Etapas:##<br>
 **Preparando e processando os dados**<br>
 **Explorando os dados numéricos**<br>
 **Explorando os dados categóricos**<br>
