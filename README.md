@@ -1,4 +1,4 @@
-# analise-e-previsao-series-temporais
+# Analise e previsão de series temporais
 <br>
 - Preparando e processando os dados<br>
 - Explorando os dados numéricos<br>
