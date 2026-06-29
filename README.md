@@ -42,7 +42,7 @@ Utilizando o mapa de calor (`sns.heatmap`), identificamos relações importantes
 * **Temperatura vs. Sensação Térmica:** Alta correlação positiva de **0.99** (variáveis praticamente colineares).
 * **Umidade:** Apresenta uma correlação negativa de **-0.46**. Constatou-se que **quanto menor a umidade, menor é a contagem de bicicletas alugadas**.
 
-### 🌤️ Impacto do Clima na Demanda
+###  Impacto do Clima na Demanda
 * **Céu Limpo e Parcialmente Nublado:** São as condições com o maior volume de bicicletas alugadas.
 * **Tempo Nublado/Chuvoso:** Há uma queda severa e visível no número de aluguéis de bicicletas.
 
